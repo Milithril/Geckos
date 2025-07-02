@@ -16,9 +16,4 @@ In this work, we propose a novel AI-driven workflow to model and classify specif
   - White‐box: Decision Tree (DT)  
   - Black‐box: Gradient Boosting (GB), Extreme Gradient Boosting (XGBoost)  
 - **Workflow**: Data preprocessing → Feature extraction → Train/test split → 5‐fold cross‐validation → Model evaluation.  
-- **Key Result**: Achieved > 60 % classification accuracy for non‐complex behavioral categories, demonstrating feasibility of ML in reptile behavior studies. :contentReference[oaicite:1]{index=1}
-
----
-
-## 📁 Repository Structure
-
+- **Key Result**: Achieved > 60 % classification accuracy for non‐complex behavioral categories, demonstrating feasibility of ML in reptile behavior studies.
